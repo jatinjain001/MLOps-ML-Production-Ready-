@@ -7,3 +7,21 @@
 - flowchart - https://whimsical.com/
 - MLOps - https://www.evidentlyai.com/
 
+# Git Commands
+
+- git add .
+
+- git commit -m "Updated"
+
+- git push origin main
+
+
+# How to run 
+
+- conda create -n visa 
+
+- conda activate visa
+
+- conda install pip
+
+- pip install -r requirements.txt
