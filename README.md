@@ -6,6 +6,8 @@
 - vscode - https://code.visualstudio.com/download
 - flowchart - https://whimsical.com/
 - MLOps - https://www.evidentlyai.com/
+- MongoDB - https://account.mongodb.com/account/login
+- DataSet - https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 # Git Commands
 
